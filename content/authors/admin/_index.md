@@ -25,9 +25,7 @@ organizations:
     url: https://www.qut.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include climate change modelling and impact assessment, focusing on the short-term impacts of peak temperature on ecosystems and human wellbeing. I am also a keen reader of sci-fi, history and natural sciences.
-
-All you really need to know for the moment is that the universe is a lot more complicated than you might think, even if you start from a position of thinking it’s pretty damn complicated in the first place. - Douglas Adams
+bio: My research interests include climate change modelling and impact assessment, focusing on the short-term impacts of peak temperature on ecosystems and human wellbeing. I am also a keen reader of sci-fi, history and natural sciences. All you really need to know for the moment is that the universe is a lot more complicated than you might think, even if you start from a position of thinking it’s pretty damn complicated in the first place. - Douglas Adams
 
 # Interests to show in About widget
 interests:
