@@ -78,11 +78,7 @@ skills:
         percent: 80
         icon: gamepad
         icon_pack: fas
-      - name: Media (all of it: movies, tv, internet)
-        description: ''
-        percent: 80
-        icon: tv
-        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
